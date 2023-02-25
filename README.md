@@ -1,6 +1,6 @@
 <ul>
 <li>
-      <h3> 👋 Hi, I’m @Sean-Sweeney, a sophomore at The University of Maryland studying computer science.</h3>
+      <h3> 👋 Hi, I’m @Sean-Sweeney, a junior at The University of Maryland studying computer science.</h3>
 </li>
       
 <li>
