@@ -39,7 +39,7 @@
 </li>
 <li><h3> 📫 drop a message in</h3>
         <ul>
-        <li>linkedin -> linkedin.com/in/its-sean-sweeney/</li>
+        <li>linkedin -> linkedin.com/in/sweeney0/</li>
         <li>email -> sean.sweeney952@gmail.com</li>
         </ul>
 </li>
