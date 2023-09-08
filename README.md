@@ -4,7 +4,7 @@
 </li>
       
 <li>
-      <h3> 👀 I’m interested in the intersection of computer science with many fields! (Especially Augmented Reality!)</h3>
+      <h3> 👀 I’m interested in the intersection of computer science with many fields!</h3>
       <ul>
       <h4><strong>Here's a few:</strong></h4>
       <li>transportation infrastructure</li>
@@ -27,16 +27,9 @@
       <li>vanilla JavaScript</li>
       <li>how to deploy applications on AWS (soooo many things 😂)</li>
       <li>better requirements and demand elicitation techniques</li>
-      <li>how to raise 🐤</li>
       </ul>
 </li>
-<li><h3> 💞️ I’m looking to collaborate on projects:</h3>
-      <ul>
-      <li>with savvy and kind people</li>
-      <li>geared towards AR</li>
-      <li>or wacky moonshoots that push the boundaries of what's possible</li>
-      </ul>
-</li>
+
 <li><h3> 📫 drop a message in</h3>
         <ul>
         <li>linkedin -> linkedin.com/in/sweeney0/</li>
